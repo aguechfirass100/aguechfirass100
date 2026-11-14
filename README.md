@@ -3,15 +3,18 @@
   <h1>Hi there, I'm <span style="color: #38bdf8;">Firas Aguech</span> 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+RAG+%26+Semantic+Search;Architecting+Graph-Orchestrated+Multi-Agent+Systems;Fine-Tuning+Embeddings+%26+Retrieval+Pipelines;Open+to+Freelance%2C+Consulting+%26+Full-Time+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+Engineer+%7C+RAG+%26+Semantic+Search+Architect;Building+Graph-Orchestrated+Multi-Agent+Systems;Mobile+%26+Full-Stack+Architect+(App+Store+%26+Play+Store);Available+for+Freelance%2C+Consulting+%26+Full-Time+Roles" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>AI Engineer specializing in Retrieval-Augmented Generation (RAG), Hybrid Semantic Search, and Multi-Agent LLM Systems.</b><br>
-    Bridging bleeding-edge research with production reality — measuring every tradeoff, optimizing every layer, and building resilient systems that perform under load.
+    <b>AI Engineer specializing in Retrieval-Augmented Generation (RAG), Hybrid Semantic Search, Multi-Agent LLMs, and End-to-End Production Systems.</b><br>
+    Bridging bleeding-edge ML research with resilient production engineering — from fine-tuning embedding models with LoRA and designing ColBERT rerankers, to architecting multi-agent tool ecosystems and shipping cross-platform apps to the App Store & Google Play.
   </p>
 
   <p align="center">
+    <a href="https://wa.me/21629861363" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B216%2029861363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
     <a href="https://linkedin.com/in/agfirass" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,13 +22,10 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://aguechfirass100.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio%20Site-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/aguechfirass100/resumes" target="_blank">
       <img src="https://img.shields.io/badge/CV%20%2F%20Resumes-10B981?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resumes" />
-    </a>
-    <a href="#-freelance--consulting-services">
-      <img src="https://img.shields.io/badge/Available%20For-Freelance%20%26%20Consulting-orange?style=for-the-badge&logo=handshake&logoColor=white" alt="Freelance Available" />
     </a>
   </p>
 
@@ -36,10 +36,13 @@
 ### 👨‍💻 About Me & Engineering Philosophy
 
 - 🔭 **Current Focus:** Graph-orchestrated multi-agent architectures, hybrid search systems (dense vectors + sparse BM25 + score fusion), and domain-adapted representation learning.
-- 🏢 **Enterprise Impact:** AI Engineering at **Bertsch Innovation GmbH (MediaCockpit)** — designed and built an enterprise context-aware AI assistant featuring 14 LLM-callable tools, dynamic graph routing, ReAct planning, and dual-collection semantic retrieval in production.
-- 🌐 **Live Web Products:** Built and shipped **[teachers.tn](https://teachers.tn/)**, a nationwide educational platform serving educators and students across Tunisia.
+- 🏢 **Enterprise Impact:** AI Engineering at **Bertsch Innovation GmbH (MediaCockpit)** — designed and built an enterprise context-aware AI assistant featuring 14 LLM-callable tools, dynamic graph routing (LangGraph4j), ReAct planning, and dual-collection semantic retrieval in production.
+- 📱 **Mobile & Web Engineering:** 
+  - Solo architected, built, and shipped **D30 Challenge** — a cross-platform fitness app (Flutter + Laravel backend) released on **Apple App Store** and **Google Play Store**.
+  - Built and shipped **[teachers.tn](https://teachers.tn/)**, a nationwide educational platform serving educators and students across Tunisia.
 - 🎯 **Engineering Philosophy:** *Measure everything.* No optimization stands on assumptions alone. Retrieval architectures, loss functions, rerankers, and chunking strategies are rigorously validated using empirical offline IR benchmarks (nDCG@10, MRR, HitRate, latency).
-- 💼 **Status:** Open to **Freelance Projects**, **Consulting / Architecture Reviews**, and **Full-Time AI Engineering Roles**.
+- 💼 **Status:** Open to **Freelance Projects**, **Consulting / Architecture Audits**, and **Full-Time AI Engineering Roles**.
+- 📞 **Direct Contact / WhatsApp:** **+216 29 861 363** | **aguechfirass100@gmail.com**
 - 🎓 **Education:** Engineering Degree in Machine Learning & Data Science (2023–2026) | Bachelor's in CS & Software Engineering (2020–2023).
 
 ---
@@ -50,9 +53,9 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
 - ⚡ **Production Multi-Agent Systems:** Dynamic tool execution, graph workflows (LangGraph / LangGraph4j), self-correcting loops, and stateful memory.
 - 🔍 **Advanced RAG & Semantic Search Pipelines:** Hybrid retrieval (Dense + BM25), reciprocal rank & distribution-based score fusion (DBSF), chunking strategies, and cross-encoder / ColBERT rerankers.
 - 🧠 **Domain Embedding Fine-Tuning:** Custom representation learning (LoRA / PEFT, triplet loss, hard-negative mining) to close the domain gap on proprietary datasets.
-- 🛠️ **End-to-End AI Web Apps & Microservices:** Fast API / Spring AI backends, vector database indexing (Qdrant, ChromaDB, Elasticsearch), and responsive web clients.
+- 📱 **Cross-Platform Apps & End-to-End MVPs:** Flutter mobile applications deployed to App Store & Play Store, FastAPI / Spring AI backends, and vector indexing.
 
-👉 *Reach out directly at **[aguechfirass100@gmail.com](mailto:aguechfirass100@gmail.com)** or via **[LinkedIn](https://linkedin.com/in/agfirass)** to discuss your project.*
+👉 *Reach out directly on **[WhatsApp (+216 29 861 363)](https://wa.me/21629861363)**, **[Email](mailto:aguechfirass100@gmail.com)**, or **[LinkedIn](https://linkedin.com/in/agfirass)**.*
 
 ---
 
@@ -64,18 +67,16 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
 | :--- | :--- |
 | **AI / Agentic LLMs** | `LangGraph` `LangGraph4j` `LangChain` `LangSmith` `CrewAI` `Multi-Agent Orchestration` `ReAct Planners` `Tool-Calling Systems` `Prompt Engineering` |
 | **Search & Information Retrieval** | `Hybrid Search` `Dense Embeddings` `Sparse BM25` `Qdrant` `ChromaDB` `Elasticsearch` `DBSF` `RRF` `ColBERT (MaxSim)` `Cross-Encoders` `nDCG@10` |
-| **Machine Learning & Deep Learning** | `PyTorch` `Hugging Face Transformers` `Sentence-Transformers` `LoRA / PEFT` `Diffusion Models` `VAE` `SHAP` `Scikit-Learn` |
-| **Languages** | `Python` `Java` `TypeScript` `JavaScript` `SQL` `Dart` `C#` |
-| **Backend & APIs** | `FastAPI` `Spring Boot` `Spring AI` `REST APIs` `Server-Sent Events (SSE)` `Jakarta EE` `Apache Wicket` |
-| **Infrastructure & DevOps** | `Docker` `MLflow` `GitLab CI/CD` `GitHub Actions` `Linux / Bash` `Parquet` `PySpark` `Vertex AI` |
+| **Deep Learning & Computer Vision / Audio** | `PyTorch` `Hugging Face Transformers` `Sentence-Transformers` `LoRA / PEFT` `Diffusion Models` `VAE` `U-Net` `ResNet-50` `SHAP` |
+| **Languages** | `Python` `Java` `Dart` `TypeScript` `JavaScript` `SQL` `PHP` `C#` |
+| **Mobile & Backend Engineering** | `Flutter` `FastAPI` `Spring Boot` `Spring AI` `Laravel` `REST APIs` `Server-Sent Events (SSE)` `Jakarta EE` |
+| **Infrastructure & DevOps** | `Docker` `MLflow` `GitLab CI/CD` `GitHub Actions` `Linux / Bash` `Parquet` `PySpark` `Vertex AI` `Google Play Console` `App Store Connect` |
 
 </div>
 
 ---
 
-### 🏛️ Enterprise & Private Engineering Work
-
-*(Proprietary systems designed, benchmarked, and deployed)*
+### 🏛️ Enterprise & Flagship Systems
 
 <table>
   <tr>
@@ -122,15 +123,29 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
 
 ---
 
-### 🌐 Live Production Platforms & Open-Source Projects
+### 📱 Live Mobile & Web Products
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://teachers.tn/">🎓 teachers.tn</a></h3>
-      <p><b>National Educational Platform in Tunisia</b></p>
+      <h3>📱 D30 Challenge Mobile App</h3>
+      <p><b>Live on Apple App Store & Google Play Store</b> | <i>Flutter, Dart, Laravel, REST</i></p>
       <ul>
-        <li>Production educational web platform built to connect teachers and learners nationwide.</li>
+        <li>Architected and built solo from initial concept and UI/UX design to full production release on both the <b>Apple App Store</b> and <b>Google Play Store</b>.</li>
+        <li>Cross-platform Flutter frontend with custom workout timers, streak tracking, interactive animations, and responsive offline caching.</li>
+        <li>Scalable Laravel REST API backend handling user auth, challenge progression, analytics, and content synchronization.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/iOS-App%20Store-black?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-Google%20Play-34A853?style=flat-square&logo=google-play&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://teachers.tn/">🎓 teachers.tn</a></h3>
+      <p><b>National Educational Platform in Tunisia</b> | <i>Full-Stack Web Platform</i></p>
+      <ul>
+        <li>Production educational web platform built to connect teachers, tutors, and students nationwide.</li>
         <li>Features document sharing, online curriculum resources, real-time collaboration tools, and high-performance mobile-first UI.</li>
       </ul>
       <p>
@@ -138,12 +153,21 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
         <img src="https://img.shields.io/badge/Web%20App-Production-blue?style=flat-square" />
       </p>
     </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 Open-Source AI & Deep Learning Repositories
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aguechfirass100/HireBotX">🤖 HireBotX</a></h3>
       <p><b>Multi-Agent Technical Recruitment Platform</b></p>
       <ul>
         <li>Three specialized interviewer personas (HR, CTO, CEO) grounded in ChromaDB collections with role-specific rubrics.</li>
-        <li>Real-time candidate scoring and context-aware adaptive follow-up questioning based on previous responses.</li>
+        <li>Adaptive real-time interview flows that score candidate answers against a structured rubric.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -151,8 +175,6 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
         <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aguechfirass100/PostPulse">⚡ PostPulse</a></h3>
       <p><b>AI Multimodal Marketing Content Platform</b></p>
@@ -166,6 +188,8 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
         <img src="https://img.shields.io/badge/BERT-F59E0B?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aguechfirass100/pytorch-transformer-from-scratch">🧠 PyTorch Transformer from Scratch</a></h3>
       <p><b>"Attention Is All You Need" Ground-Up Implementation</b></p>
@@ -176,6 +200,42 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Deep%20Learning-3B82F6?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aguechfirass100/Transformer-Based-DDoS-Detection">🛡️ Transformer-Based DDoS Detection</a></h3>
+      <p><b>Self-Attention for Network Threat Classification</b></p>
+      <ul>
+        <li>Applies Transformer self-attention mechanisms to packet flow sequences and telemetry to detect distributed denial-of-service anomalies in real time.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cybersecurity-6366F1?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Audio Emotion Augmentation with VAE & Diffusion</h3>
+      <p><b>Generative Speech Emotion Recognition</b></p>
+      <ul>
+        <li>Built a generative VAE + diffusion pipeline with U-Net augmentation and ResNet-50 classifiers to synthesize high-fidelity emotion-conditioned spectrograms on EmoDB & RAVDESS.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Diffusion-FF4500?style=flat-square" />
+        <img src="https://img.shields.io/badge/VAE-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio%20ML-8B5CF6?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aguechfirass100/customer-churn-prediction-telecom">📊 Telecom Customer Churn Prediction</a></h3>
+      <p><b>Predictive Modeling from Research Papers</b></p>
+      <ul>
+        <li>Comparative implementation of customer churn classification models in telecom based on 3 seminal research papers, with feature engineering and SHAP interpretability.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" />
+        <img src="https://img.shields.io/badge/SHAP-10B981?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -199,10 +259,11 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
 ### 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/agfirass" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
-  <a href="mailto:aguechfirass100@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://aguechfirass100.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://github.com/aguechfirass100/resumes" target="_blank"><img src="https://img.shields.io/badge/Curriculum%20Vitae-10B981?style=flat-square&logo=read-the-docs&logoColor=white" height="30" /></a>
+  <a href="https://wa.me/21629861363" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B216%2029861363-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="32" /></a>&nbsp;
+  <a href="https://linkedin.com/in/agfirass" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32" /></a>&nbsp;
+  <a href="mailto:aguechfirass100@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" height="32" /></a>&nbsp;
+  <a href="https://aguechfirass100.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white" height="32" /></a>&nbsp;
+  <a href="https://github.com/aguechfirass100/resumes" target="_blank"><img src="https://img.shields.io/badge/Curriculum%20Vitae-10B981?style=flat-square&logo=read-the-docs&logoColor=white" height="32" /></a>
 </p>
 
 <p align="center">
