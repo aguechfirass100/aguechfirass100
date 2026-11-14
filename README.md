@@ -81,9 +81,10 @@ Looking to ship AI capabilities with enterprise-grade stability? I help companie
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Cockpit AI — Enterprise Context-Aware Assistant</h3>
+      <h3>🏢 Cockpit AI — Live Enterprise Production Assistant</h3>
       <p><b>Bertsch Innovation GmbH (MediaCockpit)</b> | <i>Java, LangGraph4j, Spring AI, Qdrant, DBSF</i></p>
       <ul>
+        <li><b>Live in Enterprise Production & MC15 Migration:</b> Completed the end-to-end production architecture and migration (MC14 to MC15); actively deployed and powering live daily operations for Bertsch Innovation GmbH & MediaCockpit enterprise customers.</li>
         <li><b>Graph-Orchestrated Multi-Agent Architecture:</b> Built a production multi-agent system from scratch using LangGraph4j with dynamic routing between sequential and parallel tool-execution paths, looped self-correction, and persistent per-user session memory.</li>
         <li><b>Self-Registering Tool Ecosystem:</b> Deployed 14 LLM-callable tools spanning semantic search, structured querying, aggregation, and automated report generation with runtime auto-discovery and mode classification.</li>
         <li><b>Intent Routing & Planning:</b> Engineered an intent classification layer dispatching natural language queries to a ReAct retrieval agent or an LLM-as-planner module that decomposes complex multi-part queries into targeted sub-tasks.</li>
